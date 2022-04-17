@@ -1,7 +1,7 @@
 {
-  "name": "@mohamadtsn/fortawesome-pro-custom",
+  "name": "@mohamadtsn/fontawesome-icon",
   "version": "1.0.0",
-  "description": "Fortawesome icon pack pro vertion custom",
+  "description": "Fontawesome icon pack pro version custom",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
