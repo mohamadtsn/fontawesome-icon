@@ -38,11 +38,5 @@ import "@mohamadtsn/fontawesome-icon/dist/css/*.[min].css"
 │   │   └── solid[min].css
 │   │   └── thin[min].css
 │   └── fonts
-│      ├── brands
-│         └── fa-brands => *.ttf | *.woff | *.woff2
-│      ├── duotone
-│      ├── light
-│      ├── regular
-│      ├── solid
-│      ├── thin
+│      ├── fa-[brands,duotone,light,regular,solid,thin] => *.ttf | *.woff2
 ```
